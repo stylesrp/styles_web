@@ -5,8 +5,8 @@ export const serverConfig = {
   // Discord Configuration
   discord: {
     enabled: true, // Set to false to disable Discord stats
-    guildId: "YOUR_DISCORD_SERVER_ID", // Replace with your Discord server ID
-    inviteLink: "https://discord.gg/placeholder", // Your Discord invite link
+    guildId: "1046276046137331773", // Replace with your Discord server ID
+    inviteLink: "https://discord.gg/stylesrp", // Your Discord invite link
   },
 
   // FiveM/RedM Server Configuration
