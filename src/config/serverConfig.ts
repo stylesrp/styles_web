@@ -13,7 +13,7 @@ export const serverConfig = {
   gameServer: {
     enabled: true, // Set to false to disable game server stats
     type: "fivem", // Options: "fivem" or "redm"
-    cfxCode: "placeholder", // Your server's CFX join code (e.g., "abc123")
+    cfxCode: "pl6dgy", // Your server's CFX join code (e.g., "abc123")
     // Alternative: Use IP:Port instead
     // ip: "123.456.789.0",
     // port: "30120",
